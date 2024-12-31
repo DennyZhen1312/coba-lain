@@ -1,0 +1,3 @@
+type coba = {
+name:string
+}
